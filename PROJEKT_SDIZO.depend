@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1683840887 source:c:\users\asus\desktop\informatyka techniczna sem iv\struktury danych i z£o¯onoŒÆ obliczeniowa\projekt\projekt_sdizo\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<math.h>
+	<windows.h>
+	<cstdlib>
+	<ctime>
+	"tablica.h"
+	"lista.h"
+	"kopiec.h"
+	"drzewo.h"
+
+1683759389 c:\users\asus\desktop\informatyka techniczna sem iv\struktury danych i z£o¯onoŒÆ obliczeniowa\projekt\projekt_sdizo\tablica.h
+
+1683760301 c:\users\asus\desktop\informatyka techniczna sem iv\struktury danych i z£o¯onoŒÆ obliczeniowa\projekt\projekt_sdizo\lista.h
+
+1683837584 c:\users\asus\desktop\informatyka techniczna sem iv\struktury danych i z£o¯onoŒÆ obliczeniowa\projekt\projekt_sdizo\kopiec.h
+
+1683757652 c:\users\asus\desktop\informatyka techniczna sem iv\struktury danych i z£o¯onoŒÆ obliczeniowa\projekt\projekt_sdizo\drzewo.h
+
